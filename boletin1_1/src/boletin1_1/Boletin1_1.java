@@ -16,6 +16,7 @@ public class Boletin1_1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Ejercicio 1
         float base=4, altura=3;
         System.out.println("El area del triángulo es: " + (base*altura));
     }
