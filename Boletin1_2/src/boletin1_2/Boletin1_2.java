@@ -16,6 +16,7 @@ public class Boletin1_2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Ejercicio 2
         float lado=3;
         System.out.println("El area del cuadrado es: " + lado*lado);
     }
